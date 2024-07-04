@@ -26,3 +26,4 @@ And then run the optimized build with this command.
 npm start
 ```
 
+This project is deployed to Vercel, you can [view it here](https://pryzm-screentest.vercel.app/)
